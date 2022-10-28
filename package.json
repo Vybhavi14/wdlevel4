@@ -7,7 +7,7 @@
     "test": "jest",
     "prepare": "husky install"
   },
-  "author": "Abhi",
+  "author": "Vybhu",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.25.0",
